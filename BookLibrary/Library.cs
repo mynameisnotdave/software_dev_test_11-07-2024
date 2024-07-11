@@ -3,11 +3,21 @@ using System.Text.Json;
 
 public class Library
 {
-    private List<Book> books = new List<Book>();
+    private List<Book> books = [];
+
+    public List<Book> ReturnBooks()
+    {
+        return books;
+    }
 
     public void AddBook(Book book)
     {
         books.Add(book);
+    }
+
+    public void AddBooks(List<Book> book)
+    {
+        books.AddRange(book);
     }
 
     public Book FindBookByISBN(string isbn)
