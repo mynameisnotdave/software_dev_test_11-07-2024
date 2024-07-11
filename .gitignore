@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BookLibrary/bin/Debug/net8.0/BookLibrary.dll
+/BookLibrary/bin/Debug/net8.0/BookLibrary.exe
+/BookLibrary/bin/Debug/net8.0/BookLibrary.pdb
+/BookLibrary/obj/Debug/net8.0/ref/BookLibrary.dll
+/BookLibrary/obj/Debug/net8.0/refint/BookLibrary.dll
+/BookLibrary/obj/Debug/net8.0/apphost.exe
