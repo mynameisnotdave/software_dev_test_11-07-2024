@@ -1,0 +1,15 @@
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\BookLibrary.exe
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\BookLibrary.deps.json
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\BookLibrary.dll
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\BookLibrary.pdb
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.dll
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\refint\BookLibrary.dll
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.pdb
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\obj\Debug\net8.0\ref\BookLibrary.dll
+C:\Stuart\Projects\nunit-csharp-samples-master\nunit-csharp-samples-master\BookLibrary\bin\Debug\net8.0\seed_data.json
