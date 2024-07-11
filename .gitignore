@@ -3,9 +3,13 @@
 ################################################################################
 
 /.vs
-/BookLibrary/bin/Debug/net8.0/BookLibrary.dll
-/BookLibrary/bin/Debug/net8.0/BookLibrary.exe
-/BookLibrary/bin/Debug/net8.0/BookLibrary.pdb
-/BookLibrary/obj/Debug/net8.0/ref/BookLibrary.dll
-/BookLibrary/obj/Debug/net8.0/refint/BookLibrary.dll
-/BookLibrary/obj/Debug/net8.0/apphost.exe
+/BookLibrary/bin/
+/BookLibrary/obj
+/BookLibraryTests/bin
+/BookLibraryTests/obj/Debug/net8.0/ref
+/BookLibraryTests/obj/Debug/net8.0/refint
+/BookLibraryTests/obj/Release/net8.0
+/ExpectedExceptionExample/.vs
+/money/bin/Debug/net6.0/Money.dll
+/money/bin/Debug/net6.0/Money.pdb
+/money/bin/Debug/net6.0/nunit_random_seed.tmp
